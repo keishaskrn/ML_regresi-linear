@@ -1,0 +1,14 @@
+CHECKLIST TA-02
+[ ] Salin energydata_complete.csv ke folder dataset
+[ ] Jalankan python -m pip install -r requirements.txt
+[ ] Jalankan python train_model.py
+[ ] Periksa metrics.json dan dua file grafik PNG
+[ ] Jalankan python app.py dan uji input suhu di browser
+[ ] Screenshot kode, terminal, grafik, dan aplikasi
+[ ] Buat repository GitHub dan push proyek
+[ ] Deploy dengan build: pip install -r requirements.txt && python train_model.py
+[ ] Start command: gunicorn app:app
+[ ] Uji URL hosting
+[ ] Rekam demo dan unggah ke YouTube
+[ ] Lengkapi tautan di laporan
+[ ] Pastikan nama dan NIM benar
